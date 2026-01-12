@@ -1,6 +1,7 @@
-•	I am Nsame Johnson N, a Biomedical Engineering graduate from the BSPH program.
-	•	I have a passion for both science and adventure.
-	•	I am an extrovert who loves sports, especially football and swimming.
-	•	I enjoy staying active but also relaxing with video games.
-	•	I am confident in my beliefs and guided by my faith in God.
-	•	I bring energy, curiosity, and enthusiasm into everything I do
+Name:Nsame Johnson
+
+Why I’m learning full-stack:
+I want to understand how applications are built end-to-end and be able to create my own projects without depending fully on others.
+
+My Goal:
+To become a full-stack developer and build real-world products that solve problems.
